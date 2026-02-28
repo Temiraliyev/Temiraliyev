@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/m.temiraliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.temiraliyev" height="30" width="40" /></a>
-<a href="https://t.me/m_temiraliyev" target="blank"><img align="center" src="https://ouch-cdn2.icons8.com/KDWSUwPNbeZaxOYggiW8VmQJqy7p2cIN_g0lq-Ywo34/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTg1/L2I5MDg2ZjUyLTRi/NWMtNDYyZC1iMTli/LTk5Y2Q0NGZiYjI4/Yi5wbmc.png" alt="m_temiraliyev" height="40" width="40" /></a>
+<a href="https://t.me/m_temiraliyev" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" alt="m_temiraliyev" height="40" width="40" /></a>
 
 </p>
 
